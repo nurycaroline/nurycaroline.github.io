@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/nurycaroline
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nury.dev
+  * I am nurycaroline (https://keybase.io/nurycaroline) on keybase.
+  * I have a public key with fingerprint 1255 3BEC 096A 66CF A711  7345 B55A F8CA 5AA2 42E4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b5922a116876586538106717327a1393d93ab60ab7b1e5dccea2fbaa4b314ab00a",
+      "fingerprint": "12553bec096a66cfa7117345b55af8ca5aa242e4",
+      "host": "keybase.io",
+      "key_id": "b55af8ca5aa242e4",
+      "kid": "0101b5922a116876586538106717327a1393d93ab60ab7b1e5dccea2fbaa4b314ab00a",
+      "uid": "c7126e42b0a801a7c739a14f38983d19",
+      "username": "nurycaroline"
+    },
+    "service": {
+      "hostname": "nury.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568238081,
+  "expire_in": 157680000,
+  "prev": "5dd52b96fdf697958a4fe61b3c0b2d35f6ebc24901601b14043f18eb22d0720f",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJZSBVRGL6WC1paQkI9tI1RFpeYMzNnliv1IplLKj200TKdM3NGJ3Xm
+OneudtUkjSItQstSCnwQDXwoTLAsCrSFRAl9MKQdSoQ2KWihbDsjBT302Hk5nP98
+3/d/389/O3G2LyGqLyPxfO+mxuqo4YGWsG93ZF9UFYNtPcIEqphiMnOREp2EXLXY
+1JkAwwIWYKhwHAJAlCURyiLkZcCKEpB4TkKAV3hd4REWWYQlDAjUNY0gzsAICZgH
+AsIsixg/Y5hWIXGCjmm5VBZwEPKYaKwiIlHUDCQBqidADCEyZA1BhDiBIwIlFtkh
+j0HNYRQia02b1uhDnbH3D/x/9h2ekdMkwIlE4DCLZBYgSZN4BQHB4GVF5nWgeMAQ
+cSxUSijaCjsRDTl2iWkR5oCfoT/lpka84Xpp/kKt1Uk55QYd27U1u4RWi1w3GAp4
+LDcS9GAVBKu/BVRsWjqdI2WUEydk2hYTABSpuaanCKAoc7zMysDPkP1B0yGq6SGg
+JMosPV4f2i7AQF2HHFZEQzdERVKgjASDiADzGos5nYeGSLDGCQoLRDpFILACbwCZ
+YI7TWYljDcaLVGbZTECmNlEhlQyZhRZyww7Ne7N/V7QvKsEXGzPL2y9fQvz8P1v3
+5Grcz9L1XzL9B9WUnr7pw1XRmThSd9R/pDB98GvK2LX2kbCan8av2vmge9679C3J
+e+q3pU3cuFwTXhSXdMWeHNzx8WxdM2zPxSvTaguGxvGSTwNZ/ceXZShlFzN8C9oa
+Xvm+1U315HScehnsBrlNOSM5lcMnE/sbWpPyRtdtxe2HBlwyuOHFiYqStsy+OY1L
+J390LN++8XUkeXX61sfqOeFWf2/WyOem6Xv1cZ+NC8c2f4yU3Z0au/N94/Tb63l7
+m99n1Fd3pnbY5FE+Ex+4mj3+tLala64vZufC+9NJsZWtD990rTnf+Sz5XWTFodI7
+NRMFqVNDiz+ceX46e5C01WqX1E+jX8d+AfSwQ0g=
+=QnUG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nurycaroline
+
+==================================================================
