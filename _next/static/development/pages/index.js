@@ -23013,19 +23013,19 @@ function About() {
       lineNumber: 26
     },
     __self: this
-  }, "- Progressive Web Apps (PWA)")))), __jsx("br", {
+  }, "- Progressive Web Apps (PWA)"))), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 29
     },
     __self: this
   }), __jsx(_components_Links__WEBPACK_IMPORTED_MODULE_1__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
+      lineNumber: 30
     },
     __self: this
-  })), __jsx("img", {
+  }))), __jsx("img", {
     src: "/static/polygon-bottom.png",
     alt: "Poligno de decoracao",
     __source: {
@@ -23056,7 +23056,7 @@ __webpack_require__.r(__webpack_exports__);
 var Container = styled_components__WEBPACK_IMPORTED_MODULE_0__["default"].div.withConfig({
   displayName: "styles__Container",
   componentId: "sc-138l8o9-0"
-})(["background-color:", ";height:500px;display:flex;justify-content:space-between;flex-direction:column;"], function (_ref) {
+})(["background-color:", ";height:600px;display:flex;justify-content:space-between;flex-direction:column;"], function (_ref) {
   var theme = _ref.theme;
   return theme.colors.dark;
 });
