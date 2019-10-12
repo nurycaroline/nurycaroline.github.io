@@ -26,9 +26,9 @@ export default function About() {
               <li>- Progressive Web Apps (PWA)</li>
             </ul>
           </Skill>
+          <br />
+          <Links />
         </SkillsGroup>
-        <br />
-        <Links />
       </div>
       <img src="/static/polygon-bottom.png" alt="Poligno de decoracao" />
     </Container>

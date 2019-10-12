@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   background-color: ${({ theme }) => theme.colors.dark};
-  height: 500px;
+  height: 600px;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
