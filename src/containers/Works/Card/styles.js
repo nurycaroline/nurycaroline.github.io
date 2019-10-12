@@ -1,11 +1,10 @@
 import styled from "styled-components";
-import GridGallery from "react-grid-gallery";
 
 export const Container = styled.div`
   background-color: ${({ theme }) => theme.colors.white};
   padding: 20px;
-  margin-right: 10px;
-  height: 450px;
+  margin: 20px;
+  height: 435px;
   width: 350px;
   display: flex;
   align-items: center;
@@ -19,7 +18,13 @@ export const Images = styled.div`
   width: 300px;
   height: 180px;
   display: block;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+
+  .ReactGridGallery_tile-viewport img {
+    max-width: 300px;
+    object-fit: cover;
+  }
 `;
 
 export const ProjetcName = styled.a`
