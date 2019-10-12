@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import GridGallery from "react-grid-gallery";
 
 export const Container = styled.div`
   background-color: ${({ theme }) => theme.colors.white};
@@ -14,12 +15,10 @@ export const Container = styled.div`
   border-radius: 8px;
 `;
 
-export const Image = styled.div`
+export const Images = styled.div`
   width: 300px;
   height: 180px;
   display: block;
-  background: url(${props => props.src}) center no-repeat;
-  background-size: contain;
   margin-bottom: 30px;
 `;
 

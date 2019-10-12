@@ -1,8 +1,9 @@
 import React from "react";
+import GridGallery from "react-grid-gallery";
 
 import {
   Container,
-  Image,
+  Images,
   ProjetcName,
   Company,
   Description,
@@ -14,7 +15,9 @@ export default function Card({ work }) {
   return (
     <Container>
       <div>
-        <Image src={work.images[0]} />
+        <Images>
+          <GridGallery images={work.images} enableImageSelection={false} />
+        </Images>
         <ProjetcName href={work.link} target="_blank">
           {work.name}
         </ProjetcName>
