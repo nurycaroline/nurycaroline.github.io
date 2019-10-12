@@ -5,7 +5,7 @@ export const Container = styled.div`
   height: 100vh;
   z-index: 2;
   font-size: 24px;
-  color: #fff;
+  color: ${({ theme }) => theme.colors.white};
   overflow-y: auto;
   animation-delay: 1.2s;
   animation: ${({ theme }) => theme.fadeIn} 4s;

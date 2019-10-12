@@ -3,41 +3,18 @@ import { keyframes } from "styled-components";
 const theme = {
   colors: {
     blue: "#198a9c",
+    blue2: "#24a1a2",
     green: "#41e4a4",
     green2: "#35CBB8",
     dark: "#333",
+    darkLight: "#505050",
     greyDark: " #5d5a5c",
-    greyLight: " #B3AFB2"
+    greyLight: " #B3AFB2",
+    white: "#FFFFFF"
   },
-  fonts: {
-    firaCode: {
-      bold: `
-        font-family: "Fira Code", monospace;
-        font-weight: 600;
-      `,
-      semiBold: `
-        font-family: "Fira Code", monospace;
-        font-weight: 500;
-      `,
-      regular: `
-        font-family: "Fira Code", monospace;
-        font-weight: 400;
-      `,
-      ligth: `
-        font-family: "Fira Code", monospace;
-        font-weight: 300;
-      `
-    },
-    livvic: {
-      regular: `
-        font-family: "Livvic", sans-serif;
-        font-weight: 400;
-      `,
-      semiBold: `
-        font-family: "Livvic", sans-serif;
-        font-weight: 700;
-      `
-    }
+  gradients: {
+    greenBlue270: `linear-gradient(270deg, #198a9c 0%, #46efb4 99.99%)`,
+    greenBlue90: `linear-gradient(90deg, #45edb4 0%, #1d939e 100%)`
   },
 
   /* Keyframs */

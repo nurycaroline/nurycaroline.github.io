@@ -9,11 +9,11 @@ const Animation = styled.div`
 
 export const AnimationToTop = styled(Animation)`
   animation: ${({ theme }) => theme.slideTop} 2s forwards;
-  background: linear-gradient(270deg, #198a9c 0%, #46efb4 99.99%);
+  background: ${({ theme }) => theme.gradients.greenBlue270};
 `;
 
 export const AnimationToBotton = styled(Animation)`
   margin-top: calc(101vh / 2);
   animation: ${({ theme }) => theme.slideBotton} 2s forwards;
-  background: linear-gradient(270deg, #198a9c 0%, #46efb4 99.99%);
+  background: ${({ theme }) => theme.gradients.greenBlue270};
 `;

@@ -27,7 +27,7 @@ export default function Card({ work }) {
 
       <Tags>
         {work.tags.map(tag => (
-          <TagItem>{tag}</TagItem>
+          <TagItem key={tag}>{tag}</TagItem>
         ))}
       </Tags>
     </Container>

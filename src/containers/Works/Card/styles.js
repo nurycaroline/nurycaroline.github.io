@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  background-color: #fff;
+  background-color: ${({ theme }) => theme.colors.white};
   padding: 20px;
   margin-right: 10px;
   height: 450px;
@@ -24,21 +24,21 @@ export const Image = styled.div`
 `;
 
 export const ProjetcName = styled.a`
-  font: 18px/22px "Fira Code";
+  font: 18px/22px "FiraCodeLight";
   font-weight: 500;
   margin-bottom: 10px;
   text-decoration: none;
 `;
 
 export const Company = styled.a`
-  font: 14px/17px "Fira Code";
+  font: 14px/17px "FiraCodeMedium";
   font-weight: 600;
   text-decoration: none;
   margin-bottom: 10px;
 `;
 
 export const Description = styled.p`
-  font: 14px/18px "Livvic";
+  font: 14px/18px "LivvicRegular";
 `;
 
 export const Tags = styled.ul`
@@ -49,8 +49,7 @@ export const Tags = styled.ul`
 
 export const TagItem = styled.li`
   list-style: none;
-  font: 12px "Fira Code";
-  font-weight: 300px;
+  font: 12px "FiraCodeLight";
   margin-right: 5px;
   background-color: ${({ theme }) => theme.colors.green2};
   border-radius: 30px;

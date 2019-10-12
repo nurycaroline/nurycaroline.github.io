@@ -16,15 +16,14 @@ export const Header = styled.header`
 
 export const Logo = styled.div`
   text-transform: uppercase;
-  font-size: 25px;
   margin: -10px 20px;
 
   span:nth-child(1) {
-    ${({ theme }) => theme.fonts.firaCode.bold};
+    font: 25px "FiraCodeBold";
     color: ${({ theme }) => theme.colors.green};
   }
   span:nth-child(2) {
-    ${({ theme }) => theme.fonts.firaCode.semiBold};
+    font: 25px "FiraCodeSemiBold";
     color: ${({ theme }) => theme.colors.greyLight};
     letter-spacing: 0.5px;
   }
@@ -43,18 +42,17 @@ export const Presentation = styled.div`
   align-items: center;
   justify-content: space-between;
   margin: 25% 0 40px;
-
+  
   p {
+    color: ${({ theme }) => theme.colors.white};
     width: 100%;
   }
 
   p:nth-child(1) {
-    ${({ theme }) => theme.fonts.livvic.regular};
-    font-size: 24px;
+    font: 24px "LivvicRegular";
   }
   p:nth-child(2) {
-    ${({ theme }) => theme.fonts.livvic.semiBold};
-    font-size: 24px;
+    font-size: 24px "LivvicBold";
   }
 
   ${media.lessThan("medium")`flex-direction: column-reverse;`}
