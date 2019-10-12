@@ -16170,7 +16170,16 @@ var Title = styled_components__WEBPACK_IMPORTED_MODULE_0__["default"].h4.withCon
 var List = styled_components__WEBPACK_IMPORTED_MODULE_0__["default"].div.withConfig({
   displayName: "styles__List",
   componentId: "sc-1xy50ah-2"
-})(["width:100%;display:flex;align-items:center;overflow-x:auto;padding:20px;"]);
+})(["width:100%;display:flex;align-items:center;overflow-x:auto;padding:20px;::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.3);border-radius:10px;background-color:", ";height:5px;}::-webkit-scrollbar{width:12px;height:5px;background-color:", ";}::-webkit-scrollbar-thumb{background-color:", ";border-radius:10px;height:4px;-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.3);}"], function (_ref) {
+  var theme = _ref.theme;
+  return theme.colors.green2;
+}, function (_ref2) {
+  var theme = _ref2.theme;
+  return theme.colors.green2;
+}, function (_ref3) {
+  var theme = _ref3.theme;
+  return theme.colors.blue;
+});
 var ListItem = Object(styled_components__WEBPACK_IMPORTED_MODULE_0__["default"])(_Card__WEBPACK_IMPORTED_MODULE_1__["default"]).withConfig({
   displayName: "styles__ListItem",
   componentId: "sc-1xy50ah-3"
