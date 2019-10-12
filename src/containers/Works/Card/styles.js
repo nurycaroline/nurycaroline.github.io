@@ -48,7 +48,6 @@ export const Tags = styled.ul`
 `;
 
 export const TagItem = styled.li`
-  list-style: none;
   font: 12px "FiraCodeLight";
   margin-right: 5px;
   background-color: ${({ theme }) => theme.colors.green2};

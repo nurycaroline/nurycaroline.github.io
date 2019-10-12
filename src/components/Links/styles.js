@@ -6,6 +6,8 @@ export const Container = styled.div`
   align-items: center;
   justify-content: space-between;
   width: 300px;
+  margin-left: auto;
+  margin-right: auto;
 
   a {
     background-color: ${({ theme }) => theme.colors.green};

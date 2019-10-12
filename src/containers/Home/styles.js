@@ -4,7 +4,7 @@ import LinksComponent from "../../components/Links";
 
 export const Container = styled.div`
   width: 100%;
-  height: 100vh;
+  height: 600px;
 `;
 
 export const Header = styled.header`
@@ -66,9 +66,4 @@ export const Photo = styled.img`
     margin-bottom: 40px;
     width: 150px;
   `}
-`;
-
-export const Links = styled(LinksComponent)`
-  margin-left: auto;
-  margin-right: auto;
 `;

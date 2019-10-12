@@ -1,14 +1,7 @@
 import React from "react";
+import Links from "../../components/Links";
 
-import {
-  Container,
-  Header,
-  Logo,
-  Body,
-  Photo,
-  Presentation,
-  Links
-} from "./styles";
+import { Container, Header, Logo, Body, Photo, Presentation } from "./styles";
 
 export default function Home() {
   return (

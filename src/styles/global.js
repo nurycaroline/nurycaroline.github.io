@@ -28,37 +28,41 @@ export default createGlobalStyle`
     text-decoration: none;
   }
 
-  @font-face {
-  font-family: "FiraCodeBold";
-  src: url("static/fonts/Fira_Code/static/FiraCode-Bold.ttf") format("truetype");
-}
-@font-face {
-  font-family: "FiraCodeLight";
-  src: url("static/fonts/Fira_Code/static/FiraCode-Light.ttf")
-    format("truetype");
-}
-@font-face {
-  font-family: "FiraCodeMedium";
-  src: url("static/fonts/Fira_Code/static/FiraCode-Medium.ttf")
-    format("truetype");
-}
-@font-face {
-  font-family: "FiraCodeRegular";
-  src: url("static/fonts/Fira_Code/static/FiraCode-Regular.ttf")
-    format("truetype");
-}
-@font-face {
-  font-family: "FiraCodeSemiBold";
-  src: url("static/fonts/Fira_Code/static/FiraCode-SemiBold.ttf")
-    format("truetype");
-}
+  ul{
+    list-style: none;
+  }
 
-@font-face {
-  font-family: "LivvicRegular";
-  src: url("static/fonts/Livvic/Livvic-Regular.ttf") format("truetype");
-}
-@font-face {
-  font-family: "LivvicBold";
-  src: url("static/fonts/Livvic/Livvic-Bold.ttf") format("truetype");
-}
+  @font-face {
+    font-family: "FiraCodeBold";
+    src: url("static/fonts/Fira_Code/static/FiraCode-Bold.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "FiraCodeLight";
+    src: url("static/fonts/Fira_Code/static/FiraCode-Light.ttf")
+      format("truetype");
+  }
+  @font-face {
+    font-family: "FiraCodeMedium";
+    src: url("static/fonts/Fira_Code/static/FiraCode-Medium.ttf")
+      format("truetype");
+  }
+  @font-face {
+    font-family: "FiraCodeRegular";
+    src: url("static/fonts/Fira_Code/static/FiraCode-Regular.ttf")
+      format("truetype");
+  }
+  @font-face {
+    font-family: "FiraCodeSemiBold";
+    src: url("static/fonts/Fira_Code/static/FiraCode-SemiBold.ttf")
+      format("truetype");
+  }
+
+  @font-face {
+    font-family: "LivvicRegular";
+    src: url("static/fonts/Livvic/Livvic-Regular.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "LivvicBold";
+    src: url("static/fonts/Livvic/Livvic-Bold.ttf") format("truetype");
+  }
 `;
