@@ -1,17 +1,16 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
+import { ServerStyleSheet } from "styled-components";
 
 export default class MyDocument extends Document {
-  static async getInitialProps(ctx) {
-    const originalRenderPage = ctx.renderPage;
+  static getInitialProps({ renderPage }) {
+    const sheet = new ServerStyleSheet();
+    const page = renderPage(App => props =>
+      sheet.collectStyles(<App {...props} />)
+    );
 
-    ctx.renderPage = () =>
-      originalRenderPage({
-        enhanceApp: App => App,
-        enhanceComponent: Component => Component
-      });
+    const styleTags = sheet.getStyleElement();
 
-    const initialProps = await Document.getInitialProps(ctx);
-    return initialProps;
+    return { ...page, styleTags };
   }
 
   render() {
@@ -29,6 +28,7 @@ export default class MyDocument extends Document {
             type="image/png"
             sizes="32x32"
           />
+          {this.props.styleTags}
         </Head>
         <body>
           <Main />
