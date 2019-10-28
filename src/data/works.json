@@ -8,6 +8,7 @@
         {
           "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fblog.png?alt=media&token=e5965bc2-e1d7-44ca-8fd4-a49e284f3b0c",
           "thumbnailWidth": 300,
+          "thumbnailHeight": 180,
           "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fblog.png?alt=media&token=e5965bc2-e1d7-44ca-8fd4-a49e284f3b0c"
         },
         {
@@ -35,6 +36,7 @@
         {
           "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fcapa.png?alt=media&token=1bb236b8-27a3-44dd-9737-ad2675ee688a",
           "thumbnailWidth": 300,
+          "thumbnailHeight": 180,
           "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fhome.png?alt=media&token=4f82d7c1-c4ff-43db-953b-d7ee9fedbdde"
         },
         {
@@ -61,6 +63,7 @@
       "images": [
         {
           "thumbnailWidth": 300,
+          "thumbnailHeight": 180,
           "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Details.png?alt=media&token=44c84534-3217-49a5-99c1-b9a84f063072",
           "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Details.png?alt=media&token=44c84534-3217-49a5-99c1-b9a84f063072"
         },
@@ -89,6 +92,7 @@
         {
           "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fposto%2FScreen%20Shot%202019-09-11%20at%2021.01.30.png?alt=media&token=fccf9abc-680b-43a6-8de0-ae73390ff319",
           "thumbnailWidth": 300,
+          "thumbnailHeight": 180,
           "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fposto%2FScreen%20Shot%202019-09-11%20at%2021.01.30.png?alt=media&token=fccf9abc-680b-43a6-8de0-ae73390ff319"
         },
         {
@@ -122,6 +126,7 @@
         {
           "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=3da41eb2-148a-4e06-997c-c5d1510d4b8d",
           "thumbnailWidth": 300,
+          "thumbnailHeight": 180,
           "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Flogin.png?alt=media&token=d17084e9-80f5-4d69-b80f-32eaad505b9f"
         },
         {
