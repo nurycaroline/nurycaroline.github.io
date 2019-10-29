@@ -28,7 +28,7 @@ export default class MyDocument extends Document {
         <meta property="og:site_name" content="NuryCaroline" />
         <meta property="og:description" content="Nurielly's portfolio" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="/static/og-image.png"/>
+        <meta property="og:image" content="/static/og-image.jpg"/>
         <meta property="og:image:type" content="image/jpeg"/>
         <meta property="og:image:width" content="800"/>
         <meta property="og:image:height" content="600"/>
