@@ -17,8 +17,11 @@ export default class MyDocument extends Document {
     return (
       <Html lang="en">
         <title>NuryCaroline</title>
-        <meta name="description" content="Nurielly\'s portfolio"/>
-        <meta name="keywords" content="NURY, NURIELLY, NURYCAROLINE, DEVELOPER, FRONT, FRONT-END, DESENVOLVIMENTO, MOBILE, REACT, JAVASCRIPT, REACT NATIVE, RN, HTML, CSS, JS" />
+        <meta name="description" content="Nurielly\'s portfolio" />
+        <meta
+          name="keywords"
+          content="NURY, NURIELLY, NURYCAROLINE, DEVELOPER, FRONT, FRONT-END, DESENVOLVIMENTO, MOBILE, REACT, JAVASCRIPT, REACT NATIVE, RN, HTML, CSS, JS"
+        />
         <meta name="language" content="English" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
@@ -28,10 +31,16 @@ export default class MyDocument extends Document {
         <meta property="og:site_name" content="NuryCaroline" />
         <meta property="og:description" content="Nurielly's portfolio" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="/static/og-image.jpg"/>
-        <meta property="og:image:type" content="image/jpeg"/>
-        <meta property="og:image:width" content="800"/>
-        <meta property="og:image:height" content="600"/>
+        <meta property="og:image" content="/static/og-image.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="800" />
+        <meta property="og:image:height" content="600" />
+
+        <meta property="og:type" content="article" />
+        <meta property="article:author" content="nurycaroline" />
+        <meta property="article:section" content="Nurielly's portfolio" />
+        <meta property="article:tag" content="NURY, NURIELLY, NURYCAROLINE, DEVELOPER, FRONT, FRONT-END, DESENVOLVIMENTO, MOBILE, REACT, JAVASCRIPT, REACT NATIVE, RN, HTML, CSS, JS" />
+        <meta property="article:published_time" content="date_time" />
 
         <Head>
           <link
