@@ -10,11 +10,12 @@ const theme = {
     darkLight: "#505050",
     greyDark: " #5d5a5c",
     greyLight: " #B3AFB2",
-    white: "#FFFFFF"
+    white: "#FFFFFF",
   },
   gradients: {
     greenBlue270: `linear-gradient(270deg, #198a9c 0%, #46efb4 99.99%)`,
-    greenBlue90: `linear-gradient(90deg, #45edb4 0%, #1d939e 100%)`
+    greenBlue90: `linear-gradient(90deg, #45edb4 0%, #1d939e 100%)`,
+    blueGreen90: `linear-gradient(90deg, #1D939E 0%, #45EDB4 100%)`
   },
 
   /* Keyframs */

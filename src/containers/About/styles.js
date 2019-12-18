@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import CTitle from "../../components/Title";
 
 export const Container = styled.div`
   background-color: ${({ theme }) => theme.colors.dark};
@@ -8,11 +9,8 @@ export const Container = styled.div`
   flex-direction: column;
 `;
 
-export const Title = styled.h1`
-  color: ${({ theme }) => theme.colors.darkLight};
-  font: bold 50px/63px "LivvicBold";
-  text-align: center;
-  padding: 50px 0 35px 0;
+export const Title = styled(CTitle)`
+  color: ${({ theme }) => theme.colors.darkLight} !important;
 `;
 
 export const SkillsGroup = styled.div`

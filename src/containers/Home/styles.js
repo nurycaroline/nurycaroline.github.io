@@ -14,7 +14,7 @@ export const Header = styled.header`
   }
 `;
 
-export const Logo = styled.div`
+export const Logo = styled.h1`
   text-transform: uppercase;
   margin: -10px 20px;
 

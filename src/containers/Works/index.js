@@ -1,5 +1,10 @@
 import React from "react";
-import { Container, Title, List, ListItem } from "./styles";
+import Title from "../../components/Title";
+import List from "../../components/List";
+import Card from "./Card";
+
+import { Container } from "./styles";
+
 import WorksData from "../../data/works.json";
 
 const Works = () => {
@@ -9,7 +14,7 @@ const Works = () => {
 
       <List>
         {WorksData.works.map(work => (
-          <ListItem
+          <Card
             key={work.name}
             work={work}
           />
