@@ -11,6 +11,12 @@
       "link": "https://nurielly.dev/movie-web-app/",
       "title": "Movie web app",
       "description": "List popular movies."
+    },
+    {
+      "image": "https://github.com/nurycaroline/pricing-component-with-toggle/raw/master/design/desktop-preview.jpg",
+      "link": "https://nurielly.dev/pricing-component-with-toggle/",
+      "title": "Pricing Component",
+      "description": "Challeng by Frontend Mentor"
     }
   ]
 }
