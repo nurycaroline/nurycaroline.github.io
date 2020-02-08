@@ -34,22 +34,22 @@
       "description": "Web Site to search and compare Mercedes Benz used cars.",
       "images": [
         {
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fcapa.png?alt=media&token=1bb236b8-27a3-44dd-9737-ad2675ee688a",
+          "thumbnail": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fcapa.png?alt=media&token=1bb236b8-27a3-44dd-9737-ad2675ee688a",
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fhome.png?alt=media&token=4f82d7c1-c4ff-43db-953b-d7ee9fedbdde"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fhome.png?alt=media&token=4f82d7c1-c4ff-43db-953b-d7ee9fedbdde"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Ffiltro%20modelo.png?alt=media&token=c322f945-b2e5-4c39-aedd-d9fd9a1d909e"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Ffiltro%20modelo.png?alt=media&token=c322f945-b2e5-4c39-aedd-d9fd9a1d909e"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Ffiltro%20km.png?alt=media&token=c2913157-b716-44a1-bc7e-e1f7c3563ed5"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Ffiltro%20km.png?alt=media&token=c2913157-b716-44a1-bc7e-e1f7c3563ed5"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fcompare.png?alt=media&token=ba2d384d-e3de-47df-a1e8-cdd29f670f8b"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fcompare.png?alt=media&token=ba2d384d-e3de-47df-a1e8-cdd29f670f8b"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fselecao.png?alt=media&token=6aeae0ae-98ee-4388-b637-f55896187821"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fselecao.png?alt=media&token=6aeae0ae-98ee-4388-b637-f55896187821"
         }
       ],
       "link": null,
@@ -57,27 +57,27 @@
       "tags": ["react", "html", "css", "javascript"]
     },
     {
-      "company": { "link": "http://mhtec.com.br", "name": "MHTec Sistemas" },
+      "company": { "link": "http://www.mhtec.com.br", "name": "MHTec Sistemas" },
       "description-pt": "Desenvolvimento de uma plataforma Web para gerenciar instalações, monitorar estações. Trazendo mais agilidade nas atualizações e no controle de licensas.",
       "description": "Development of a web platform to manage facilities, monitor stations. Bringing more agility in updates and licensing control",
       "images": [
         {
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Details.png?alt=media&token=44c84534-3217-49a5-99c1-b9a84f063072",
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Details.png?alt=media&token=44c84534-3217-49a5-99c1-b9a84f063072"
+          "thumbnail": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Details.png?alt=media&token=44c84534-3217-49a5-99c1-b9a84f063072",
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Details.png?alt=media&token=44c84534-3217-49a5-99c1-b9a84f063072"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FLogin.png?alt=media&token=98e518ce-e616-470d-adc3-07a3913e9604"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FLogin.png?alt=media&token=98e518ce-e616-470d-adc3-07a3913e9604"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Edit.png?alt=media&token=315f8c78-5a4f-4f66-acb3-352f8ce4487c"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Edit.png?alt=media&token=315f8c78-5a4f-4f66-acb3-352f8ce4487c"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient.png?alt=media&token=bf756d81-21b7-4d1f-afc3-36049919cdd2"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient.png?alt=media&token=bf756d81-21b7-4d1f-afc3-36049919cdd2"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FReleases.png?alt=media&token=5691ade0-7897-474f-a8fc-bea4e61c1ab3"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FReleases.png?alt=media&token=5691ade0-7897-474f-a8fc-bea4e61c1ab3"
         }
       ],
       "link": null,
@@ -85,33 +85,33 @@
       "tags": ["react", "html", "css", "javascript"]
     },
     {
-      "company": { "link": "http://gasola.net", "name": "Gasola" },
+      "company": { "link": "http://www.gasola.net", "name": "Gasola" },
       "description-pt": "Gasola é uma plataforma online para unir empresas a postos de combustiveis, com descontos excluivos e controle de qualidade.",
       "description": "Gasola is an online platform for linking companies to gas stations with exclusive discounts and quality control.",
       "images": [
         {
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fposto%2FScreen%20Shot%202019-09-11%20at%2021.01.30.png?alt=media&token=fccf9abc-680b-43a6-8de0-ae73390ff319",
+          "thumbnail": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fposto%2FScreen%20Shot%202019-09-11%20at%2021.01.30.png?alt=media&token=fccf9abc-680b-43a6-8de0-ae73390ff319",
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fposto%2FScreen%20Shot%202019-09-11%20at%2021.01.30.png?alt=media&token=fccf9abc-680b-43a6-8de0-ae73390ff319"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fposto%2FScreen%20Shot%202019-09-11%20at%2021.01.30.png?alt=media&token=fccf9abc-680b-43a6-8de0-ae73390ff319"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fposto%2FScreen%20Shot%202019-09-11%20at%2021.01.19.png?alt=media&token=4cf14411-5903-43e3-881c-ec77c1d630cc"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fposto%2FScreen%20Shot%202019-09-11%20at%2021.01.19.png?alt=media&token=4cf14411-5903-43e3-881c-ec77c1d630cc"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Ffrota%2FScreen%20Shot%202019-09-11%20at%2020.55.37.png?alt=media&token=26d382ac-90bc-4858-9473-853e0a2a6e9d"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Ffrota%2FScreen%20Shot%202019-09-11%20at%2020.55.37.png?alt=media&token=26d382ac-90bc-4858-9473-853e0a2a6e9d"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Ffrota%2FScreen%20Shot%202019-09-11%20at%2020.56.38.png?alt=media&token=e0648c64-ada5-4934-a9c7-c49080a0ce84"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Ffrota%2FScreen%20Shot%202019-09-11%20at%2020.56.38.png?alt=media&token=e0648c64-ada5-4934-a9c7-c49080a0ce84"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Ffrota%2FScreen%20Shot%202019-09-11%20at%2020.57.28.png?alt=media&token=6e69eccc-1802-4840-b2be-ae57a19a358e"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Ffrota%2FScreen%20Shot%202019-09-11%20at%2020.57.28.png?alt=media&token=6e69eccc-1802-4840-b2be-ae57a19a358e"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Ffrota%2FScreen%20Shot%202019-09-11%20at%2020.57.50.png?alt=media&token=005c2e61-f837-4080-8725-05b89e41906f"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Ffrota%2FScreen%20Shot%202019-09-11%20at%2020.57.50.png?alt=media&token=005c2e61-f837-4080-8725-05b89e41906f"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Ffrota%2FScreen%20Shot%202019-09-11%20at%2020.58.37.png?alt=media&token=41b450ec-cc9a-44d9-b553-a57eb07c70ab"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Ffrota%2FScreen%20Shot%202019-09-11%20at%2020.58.37.png?alt=media&token=41b450ec-cc9a-44d9-b553-a57eb07c70ab"
         }
       ],
       "link": null,
@@ -119,36 +119,36 @@
       "tags": ["react", "html", "css", "javascript"]
     },
     {
-      "company": { "link": "https://wk.com.br/", "name": "WK Sistemas" },
+      "company": { "link": "https://www.wk.com.br/", "name": "WK Sistemas" },
       "description-pt": "Desenvolvimento de aplicativos web (PWA) para gestão móvel integrado com o ERP Radar, para traze mais agilidade aos usuário.",
       "description": "Web application development (PWA) for mobile management integrated with ERP Radar, to bring more agility to users.",
       "images": [
         {
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=3da41eb2-148a-4e06-997c-c5d1510d4b8d",
+          "thumbnail": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=3da41eb2-148a-4e06-997c-c5d1510d4b8d",
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Flogin.png?alt=media&token=d17084e9-80f5-4d69-b80f-32eaad505b9f"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Flogin.png?alt=media&token=d17084e9-80f5-4d69-b80f-32eaad505b9f"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Ftitulos%20autorizacao.png?alt=media&token=d856a925-4a12-408c-896e-162edf990a58"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Ftitulos%20autorizacao.png?alt=media&token=d856a925-4a12-408c-896e-162edf990a58"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fautorizacao%20saldo%20bancario.png?alt=media&token=c03e9ba2-876d-4adb-9b3f-feb73eb5ae39"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fautorizacao%20saldo%20bancario.png?alt=media&token=c03e9ba2-876d-4adb-9b3f-feb73eb5ae39"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fmenu.png?alt=media&token=88f52468-fe85-42fd-81ce-4b79778189af"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fmenu.png?alt=media&token=88f52468-fe85-42fd-81ce-4b79778189af"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Ftemas.png?alt=media&token=8efd01b8-3d6e-41fe-9471-eba332791aba"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Ftemas.png?alt=media&token=8efd01b8-3d6e-41fe-9471-eba332791aba"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fviagem%20graficos%20de%20gasto2.png?alt=media&token=03609174-0fbf-4603-8a27-90a6fa8d5ce5"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fviagem%20graficos%20de%20gasto2.png?alt=media&token=03609174-0fbf-4603-8a27-90a6fa8d5ce5"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fstore.png?alt=media&token=8fe7504a-8e32-43ea-8a30-5ee348f61e18"
+          "src": "https://www.firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fstore.png?alt=media&token=8fe7504a-8e32-43ea-8a30-5ee348f61e18"
         }
       ],
-      "link": "https://solucoes.wk.com.br/apps/",
+      "link": "https://www.solucoes.wk.com.br/apps/",
       "name": "Gestão Móvel WK",
       "tags": ["design", "react", "html", "css", "javascript"]
     }

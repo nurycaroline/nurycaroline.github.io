@@ -30,7 +30,7 @@ export const Item = styled.div`
     max-width: 140px;
   }
 
-  h4 {
+  h3 {
     font: 20px/24px Fira Code;
     text-align: center;
   }

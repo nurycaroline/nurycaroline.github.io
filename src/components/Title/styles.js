@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const Container = styled.h1`
+export const Container = styled.h2`
   color: ${({ theme }) => theme.colors.blue2};
   font: bold 50px/63px "LivvicBold";
   text-align: center;

@@ -11,7 +11,7 @@ export default function About() {
 
         <SkillsGroup>
           <Skill>
-            <h2>Web App Development</h2>
+            <h3>Web App Development</h3>
             <ul>
               <li>- HTML, CSS</li>
               <li>- Javascript (ES6, ES7+)</li>
@@ -20,7 +20,7 @@ export default function About() {
             </ul>
           </Skill>
           <Skill>
-            <h2>Mobile App Development</h2>
+            <h3>Mobile App Development</h3>
             <ul>
               <li>- React Native</li>
               <li>- Progressive Web Apps (PWA)</li>
@@ -30,7 +30,11 @@ export default function About() {
           <Links />
         </SkillsGroup>
       </div>
-      <img src="/static/polygon-bottom.png" alt="Poligno de decoracao" />
+      <img
+        src="/static/polygon-bottom.png"
+        alt="Polygon Decoration"
+        title="Polygon Decoration Bottom"
+      />
     </Container>
   );
 }

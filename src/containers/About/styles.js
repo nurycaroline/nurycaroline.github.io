@@ -26,7 +26,7 @@ export const Skill = styled.div`
   min-width: 350px;
   padding: 20px 0;
 
-  h2 {
+  h3 {
     color: ${({ theme }) => theme.colors.white};
     font: 20px/25px "LivvicBold";
   }

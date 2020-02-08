@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <Container>
       <Header>
-        <img src="/static/polygon-top.png" alt="Poligno de decoracao" />
+        <img src="/static/polygon-top.png" alt="Poligno de decoracao" title="Polygon Decoration Top" />
         <Logo>
           <span>nury</span>
           <span>caroline</span>

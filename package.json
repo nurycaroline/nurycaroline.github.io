@@ -20,7 +20,7 @@
     "start": " next start",
     "build": "next build",
     "export": "next export ",
-    "copy": "cp CNAME out && cp keybase.txt out && mkdir out/.well-known && cp .well-known/* out/.well-known/ && touch out/.nojekyll",
+    "copy": "cp CNAME out && cp robots.txt out && cp keybase.txt out && mkdir out/.well-known && cp .well-known/* out/.well-known/ && touch out/.nojekyll",
     "commit": "git add out/ && git commit -m \"Deploy Next.js\" && git subtree push --prefix out origin master",
     "deploy": "next build && next export && yarn copy"
   },
