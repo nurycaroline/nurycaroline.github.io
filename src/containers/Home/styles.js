@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import media from "styled-media-query";
-import LinksComponent from "../../components/Links";
 
 export const Container = styled.div`
   width: 100%;
@@ -55,7 +54,10 @@ export const Presentation = styled.div`
     font-size: 24px "LivvicBold";
   }
 
-  ${media.lessThan("medium")`flex-direction: column-reverse;`}
+  ${media.lessThan("medium")`
+    flex-direction: column-reverse;
+    margin-top: 60px;
+  `}
 `;
 
 export const Photo = styled.img`

@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.h2`
-  color: ${({ theme }) => theme.colors.blue2};
+  color: ${({ theme }) => theme.colors.dark};
   font: bold 50px/63px "LivvicBold";
   text-align: center;
   padding: 50px 0 35px 0;

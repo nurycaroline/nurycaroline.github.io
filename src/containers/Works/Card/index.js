@@ -28,11 +28,11 @@ export default function Card({ work }) {
         <Description>{work.description}</Description>
       </div>
 
-      <Tags>
+      {/* <Tags>
         {work.tags.map(tag => (
           <TagItem key={tag}>{tag}</TagItem>
         ))}
-      </Tags>
+      </Tags> */}
     </Container>
   );
 }

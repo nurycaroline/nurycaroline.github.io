@@ -9,7 +9,6 @@ export default () => Composed =>
     }
 
     componentDidMount() {
-      console.log("PAGE VIEW");
       ReactGA.initialize("ID_ANALYTICS");
       ReactGA.pageview(window.location.pathname);
     }

@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import media from "styled-media-query";
 import CTitle from "../../components/Title";
 
 export const Container = styled.div`
@@ -10,7 +11,7 @@ export const Container = styled.div`
 `;
 
 export const Title = styled(CTitle)`
-  color: ${({ theme }) => theme.colors.darkLight} !important;
+  color: ${({ theme }) => theme.colors.white} !important;
 `;
 
 export const SkillsGroup = styled.div`
@@ -18,12 +19,22 @@ export const SkillsGroup = styled.div`
   height: 140px;
   margin: auto;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   flex-wrap: wrap;
+
+  a {
+    margin-top: 25px;
+  }
+
+  ${media.lessThan('medium')`
+    a {
+      margin-top: 45px;
+    }
+  `}
 `;
 
 export const Skill = styled.div`
-  min-width: 350px;
+  min-width: 320px;
   padding: 20px 0;
 
   h3 {
