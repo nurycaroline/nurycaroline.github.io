@@ -13,7 +13,6 @@ export default function Links({ className }) {
       <ReactGA.OutboundLink
         eventLabel="Link Github"
         to="https://github.com/nurycaroline"
-        target="_blank"
       >
         <img src="/static/github.png" alt="Logo Github" title="Github" />
       </ReactGA.OutboundLink>
@@ -21,14 +20,12 @@ export default function Links({ className }) {
       <ReactGA.OutboundLink
         eventLabel="Link LinkedIn"
         to="https://www.linkedin.com/in/nuriellybrizola/"
-        target="_blank"
       >
         <img src="/static/linkedin.png" alt="Logo LinkedIn" title="LinkedIn" />
       </ReactGA.OutboundLink>
       <ReactGA.OutboundLink
         eventLabel="Link Codepen"
         to="https://codepen.io/nurycaroline/"
-        target="_blank"
       >
         <img src="/static/codepen.png" alt="Logo Codepen" title="Codepen" />
       </ReactGA.OutboundLink>
@@ -41,7 +38,6 @@ export default function Links({ className }) {
       <ReactGA.OutboundLink
         eventLabel="Link Behance"
         to="https://www.behance.net/nurycaroline"
-        target="_blank"
       >
         <img src="/static/behance.png" alt="Logo Behance" title="Behance" />
       </ReactGA.OutboundLink>

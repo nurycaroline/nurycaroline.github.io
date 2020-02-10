@@ -18,13 +18,9 @@ export default function Card({ work }) {
         <Images>
           <GridGallery images={work.images} enableImageSelection={false} />
         </Images>
-        <ProjetcName href={work.link} target="_blank">
-          {work.name}
-        </ProjetcName>
+        <ProjetcName href={work.link}>{work.name}</ProjetcName>
         <br />
-        <Company href={work.company.link} target="_blank">
-          {work.company.name}
-        </Company>
+        <Company href={work.company.link}>{work.company.name}</Company>
         <Description>{work.description}</Description>
       </div>
 
