@@ -85,7 +85,7 @@
       "tags": ["react", "html", "css", "javascript"]
     },
     {
-      "company": { "link": "http://www.gasola.net", "name": "Gasola" },
+      "company": { "link": "https://www.gasola.net/", "name": "Gasola" },
       "description-pt": "Gasola é uma plataforma online para unir empresas a postos de combustiveis, com descontos excluivos e controle de qualidade.",
       "description": "Gasola is an online platform for linking companies to gas stations with exclusive discounts and quality control.",
       "images": [
