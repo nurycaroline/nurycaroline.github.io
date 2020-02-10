@@ -1,1 +1,0 @@
-{"ast":null,"code":"import styled from \"styled-components\";\nexport var Container = styled.div.withConfig({\n  displayName: \"styles__Container\",\n  componentId: \"sc-1xy50ah-0\"\n})([\"background:\", \";padding-bottom:20px;\"], function (_ref) {\n  var theme = _ref.theme;\n  return theme.gradients.greenBlue90;\n});","map":null,"metadata":{},"sourceType":"module"}
