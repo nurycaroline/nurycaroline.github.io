@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\n\nconst Blog = () => {\n  return __jsx(\"h1\", null, \"My Blog\");\n};\n\nexport default Blog;","map":null,"metadata":{},"sourceType":"module"}
