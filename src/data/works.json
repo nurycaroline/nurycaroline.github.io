@@ -1,6 +1,33 @@
 {
   "works": [
     {
+      "company": { "link": "https://www.wk.com.br/", "name": "WK Sistemas" },
+      "description-pt": "Desenvolvimento de aplicativos web (PWA) para gestão móvel integrado com o ERP Radar, para traze mais agilidade aos usuário.",
+      "description": "Web application development (PWA) for mobile management integrated with ERP Radar, to bring more agility to users.",
+      "images": [
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=1145211e-be38-4979-ba48-4f6134a5d18e",
+          "thumbnailWidth": 300,
+          "thumbnailHeight": 180,
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=1145211e-be38-4979-ba48-4f6134a5d18e"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fautorizacao%20saldo%20bancario.png?alt=media&token=4058d6b7-c923-49a7-9a51-67fbc1128535"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fstore.png?alt=media&token=d1d9fa36-912b-4df7-a8b0-1021328829ed"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Ftitulos%20autorizacao.png?alt=media&token=1c94e9c7-6038-4813-9e9b-7120916d7d4f"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fviagem%20graficos%20de%20gasto2.png?alt=media&token=f793fcd5-2985-4d38-ae71-9c1cd4f0c939"
+        }
+      ],
+      "link": "https://www.solucoes.wk.com.br/apps/",
+      "name": "Mobile Management WK"
+    },
+    {
       "company": { "link": "https://www.bg7.com.br/pt/", "name": "BG7" },
       "description-pt": "Desenvolvimento de uma rede de apoio os novos pais, com conteudo para auxilia-los na jornada e Organização do chá de bebê online com lista de presentes.",
       "description": "Development of a support network for new parents, with content to assist them in the journey and organization of online baby shower with gift list.",
@@ -25,8 +52,7 @@
         }
       ],
       "link": "https://www.maisabracos.com.br/",
-      "name": "Mais Abraços",
-      "tags": ["react", "html", "css", "javascript"]
+      "name": "Mais Abraços"
     },
     {
       "company": { "link": "https://www.bg7.com.br/pt/", "name": "BG7" },
@@ -53,11 +79,13 @@
         }
       ],
       "link": null,
-      "name": "Mercedes Benz",
-      "tags": ["react", "html", "css", "javascript"]
+      "name": "Mercedes Benz"
     },
     {
-      "company": { "link": "http://www.mhtec.com.br", "name": "MHTec Sistemas" },
+      "company": {
+        "link": "http://www.mhtec.com.br",
+        "name": "MHTec Sistemas"
+      },
       "description-pt": "Desenvolvimento de uma plataforma Web para gerenciar instalações, monitorar estações. Trazendo mais agilidade nas atualizações e no controle de licensas.",
       "description": "Development of a web platform to manage facilities, monitor stations. Bringing more agility in updates and licensing control",
       "images": [
@@ -81,8 +109,7 @@
         }
       ],
       "link": null,
-      "name": "Portal de atualizações e licença",
-      "tags": ["react", "html", "css", "javascript"]
+      "name": "Portal"
     },
     {
       "company": { "link": "https://www.gasola.net/", "name": "Gasola" },
@@ -112,36 +139,109 @@
         }
       ],
       "link": null,
-      "name": "Gasola Web",
-      "tags": ["react", "html", "css", "javascript"]
+      "name": "Gasola"
     },
     {
-      "company": { "link": "https://www.wk.com.br/", "name": "WK Sistemas" },
-      "description-pt": "Desenvolvimento de aplicativos web (PWA) para gestão móvel integrado com o ERP Radar, para traze mais agilidade aos usuário.",
-      "description": "Web application development (PWA) for mobile management integrated with ERP Radar, to bring more agility to users.",
+      "company": { "link": "https://www.gasola.net/", "name": "Gasola" },
+      "description-pt": "Gasola é uma plataforma online para unir empresas a postos de combustiveis, com descontos excluivos e controle de qualidade.",
+      "description": "Gasola is an online platform for linking companies to gas stations with exclusive discounts and quality control.",
       "images": [
         {
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=1145211e-be38-4979-ba48-4f6134a5d18e",
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fwww.gasola%203.png?alt=media&token=de470152-dbc1-4874-9305-b0de0f778f9d",
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=1145211e-be38-4979-ba48-4f6134a5d18e"
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FGroup%2090.png?alt=media&token=63795c3c-01b2-4f25-b8df-336a38e0b177"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fautorizacao%20saldo%20bancario.png?alt=media&token=4058d6b7-c923-49a7-9a51-67fbc1128535"
-        },
-        {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fstore.png?alt=media&token=d1d9fa36-912b-4df7-a8b0-1021328829ed"
-        },
-        {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Ftitulos%20autorizacao.png?alt=media&token=1c94e9c7-6038-4813-9e9b-7120916d7d4f"
-        },
-        {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fviagem%20graficos%20de%20gasto2.png?alt=media&token=f793fcd5-2985-4d38-ae71-9c1cd4f0c939"
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fwww.gasola%202.png?alt=media&token=181e3e6e-019a-4e33-8d99-5ff085669a86"
         }
       ],
-      "link": "https://www.solucoes.wk.com.br/apps/",
-      "name": "Gestão Móvel WK",
-      "tags": ["design", "react", "html", "css", "javascript"]
+      "link": null,
+      "name": "Gasola Site"
+    },
+    {
+      "company": {
+        "link": "https://www.unifinance.com.br/",
+        "name": "Unifinance"
+      },
+      "description-pt": "Desenvolvimento da interface pra um aplicativo que permite exclusivamente aos clientes da Unifinance, o acompanhamento de seus investimentos de maneira prática e completa.",
+      "description": "Interface development for an application that allows Unifinance customers exclusively, to follow their investments in a practical and complete way.",
+      "images": [
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2FGraph.png?alt=media&token=14f57c81-d53b-4803-bd03-30c2fea13539",
+          "thumbnailWidth": 300,
+          "thumbnailHeight": 180,
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2FGraph.png?alt=media&token=14f57c81-d53b-4803-bd03-30c2fea13539"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2F2-2.jpg?alt=media&token=3cf4501f-5a08-4564-9ac9-199f6f3741fd"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2F2.jpg?alt=media&token=5367ac17-c88c-45a3-980d-528e0ccedd7f"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2F2-1.jpg?alt=media&token=fc2dc9e0-a208-4770-a939-f911d53ba66a"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2F1.jpg?alt=media&token=faad60bb-c1fa-4627-8987-7316f48a22e2"
+        }
+      ],
+      "link": "https://apps.apple.com/us/app/id1528593168",
+      "name": "Unifinance"
+    },
+    {
+      "company": {
+        "link": "",
+        "name": ""
+      },
+      "description-pt": "",
+      "description": "Application for online reading of the magazine necrotica",
+      "images": [
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FGraph.png?alt=media&token=5d2dfaf7-799d-45b6-bd9c-c2a3ff58cd91",
+          "thumbnailWidth": 300,
+          "thumbnailHeight": 180,
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FAndroid.png?alt=media&token=d00e16fc-22e5-40c1-854b-729e56616570"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FAndroid-3.png?alt=media&token=83e7afb0-3f2d-49ad-b176-4c8127f4b6ed"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FAndroid-2.png?alt=media&token=2c35bf2d-c4b0-4342-9196-0ba899b21524"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FAndroid-1.png?alt=media&token=18381937-ac2a-4b2a-ae83-784ae0f7e9e5"
+        }
+      ],
+      "link": "",
+      "name": "Magazine Necrótica"
+    },
+    {
+      "company": {
+        "link": "https://www.futurebrand.com/br",
+        "name": "Futurebrand"
+      },
+      "description-pt": "",
+      "description": "Site to search, buy or rent properties",
+      "images": [
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2FHome.png?alt=media&token=06149bf1-6fe6-4ec0-a194-56f46d01504a",
+          "thumbnailWidth": 300,
+          "thumbnailHeight": 180,
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2FHome.png?alt=media&token=06149bf1-6fe6-4ec0-a194-56f46d01504a"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2Fbusca.png?alt=media&token=6b030dec-2f4a-49c3-a45f-085ae9691db5"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2FBusca%20Imoveis%2003%20-%20SP%20Alugar%20mode.png?alt=media&token=f785d207-9d69-4116-bfa3-70cd669dddc0"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2FApartamento.png?alt=media&token=ad572036-2eab-4148-b087-270223d259a8"
+        }
+      ],
+      "link": "https://www.axpe.com.br/",
+      "name": "Axpe"
     }
   ]
 }

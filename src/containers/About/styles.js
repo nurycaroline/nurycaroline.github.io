@@ -26,7 +26,11 @@ export const SkillsGroup = styled.div`
     margin-top: 25px;
   }
 
-  ${media.lessThan('medium')`
+  p {
+    color: ${({ theme }) => theme.colors.white};
+  }
+
+  ${media.lessThan("medium")`
     a {
       margin-top: 45px;
     }
