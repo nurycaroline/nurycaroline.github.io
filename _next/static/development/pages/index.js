@@ -7521,10 +7521,10 @@ exports.SUPPORTS_PERFORMANCE_USER_TIMING = exports.SUPPORTS_PERFORMANCE &&
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fnurycaroline%2FDesktop%2Fworkspace%2FGithub%2Fnurycaroline.github.io%2Fpages%2Findex.js!./":
-/*!***************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fnurycaroline%2FDesktop%2Fworkspace%2FGithub%2Fnurycaroline.github.io%2Fpages%2Findex.js ***!
-  \***************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fnurycaroline%2FDocuments%2Fworkspace%2FGithub%2Fnurycaroline.github.io%2Fpages%2Findex.js!./":
+/*!*****************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fnurycaroline%2FDocuments%2Fworkspace%2FGithub%2Fnurycaroline.github.io%2Fpages%2Findex.js ***!
+  \*****************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -22793,7 +22793,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _src_styles__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../src/styles */ "./src/styles/index.js");
 /* harmony import */ var _src_styles_theme__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../src/styles/theme */ "./src/styles/theme.js");
 /* harmony import */ var _src_styles_global__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../src/styles/global */ "./src/styles/global.js");
-var _jsxFileName = "/Users/nurycaroline/Desktop/workspace/Github/nurycaroline.github.io/pages/index.js";
+var _jsxFileName = "/Users/nurycaroline/Documents/workspace/Github/nurycaroline.github.io/pages/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -22860,7 +22860,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_ga__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-ga */ "./node_modules/react-ga/dist/esm/index.js");
 /* harmony import */ var _styles__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./styles */ "./src/components/Links/styles.js");
-var _jsxFileName = "/Users/nurycaroline/Desktop/workspace/Github/nurycaroline.github.io/src/components/Links/index.js";
+var _jsxFileName = "/Users/nurycaroline/Documents/workspace/Github/nurycaroline.github.io/src/components/Links/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -23000,7 +23000,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _styles__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./styles */ "./src/components/List/styles.js");
-var _jsxFileName = "/Users/nurycaroline/Desktop/workspace/Github/nurycaroline.github.io/src/components/List/index.js";
+var _jsxFileName = "/Users/nurycaroline/Documents/workspace/Github/nurycaroline.github.io/src/components/List/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -23062,7 +23062,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./styles */ "./src/components/Title/styles.js");
 
 
-var _jsxFileName = "/Users/nurycaroline/Desktop/workspace/Github/nurycaroline.github.io/src/components/Title/index.js";
+var _jsxFileName = "/Users/nurycaroline/Documents/workspace/Github/nurycaroline.github.io/src/components/Title/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 
@@ -23117,7 +23117,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Links__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../components/Links */ "./src/components/Links/index.js");
 /* harmony import */ var _styles__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./styles */ "./src/containers/About/styles.js");
-var _jsxFileName = "/Users/nurycaroline/Desktop/workspace/Github/nurycaroline.github.io/src/containers/About/index.js";
+var _jsxFileName = "/Users/nurycaroline/Documents/workspace/Github/nurycaroline.github.io/src/containers/About/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -23147,88 +23147,46 @@ function About() {
       lineNumber: 12
     },
     __self: this
-  }, __jsx(_styles__WEBPACK_IMPORTED_MODULE_2__["Skill"], {
+  }, __jsx("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
     },
     __self: this
-  }, __jsx("h3", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }, "Web App Development"), __jsx("ul", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: this
-  }, __jsx("li", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, "- HTML, CSS"), __jsx("li", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: this
-  }, "- Javascript (ES6, ES7+)"), __jsx("li", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: this
-  }, "- React, Redux, Flux"), __jsx("li", {
+  }, "I work for about 6 years with web(HTML5, CSS3, ES6), and 3 years with React. I am a quick learner, and a dedicated professional. In addition, I am always eager to further develop my skills and add value to the solutions I work with."), __jsx(_styles__WEBPACK_IMPORTED_MODULE_2__["Skill"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19
     },
     __self: this
-  }, "- Web Responsive"))), __jsx(_styles__WEBPACK_IMPORTED_MODULE_2__["Skill"], {
+  }, __jsx("h3", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 20
+    },
+    __self: this
+  }, "Web App Development")), __jsx(_styles__WEBPACK_IMPORTED_MODULE_2__["Skill"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28
     },
     __self: this
   }, __jsx("h3", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  }, "Mobile App Development"), __jsx("ul", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: this
-  }, __jsx("li", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  }, "- React Native"), __jsx("li", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: this
-  }, "- Progressive Web Apps (PWA)"))), __jsx("br", {
-    __source: {
-      fileName: _jsxFileName,
       lineNumber: 29
+    },
+    __self: this
+  }, "Mobile App Development")), __jsx("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 35
     },
     __self: this
   }), __jsx(_components_Links__WEBPACK_IMPORTED_MODULE_1__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 36
     },
     __self: this
   }))), __jsx("img", {
@@ -23237,7 +23195,7 @@ function About() {
     title: "Polygon Decoration Bottom",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
+      lineNumber: 39
     },
     __self: this
   }));
@@ -23294,15 +23252,18 @@ var Title = Object(styled_components__WEBPACK_IMPORTED_MODULE_1__["default"])(_c
 var SkillsGroup = styled_components__WEBPACK_IMPORTED_MODULE_1__["default"].div.withConfig({
   displayName: "styles__SkillsGroup",
   componentId: "sc-138l8o9-2"
-})(["max-width:850px;height:140px;margin:auto;display:flex;justify-content:center;flex-wrap:wrap;a{margin-top:25px;}", ""], styled_media_query__WEBPACK_IMPORTED_MODULE_2__["default"].lessThan('medium')(_templateObject()));
+})(["max-width:850px;height:140px;margin:auto;display:flex;justify-content:center;flex-wrap:wrap;a{margin-top:25px;}p{color:", ";}", ""], function (_ref3) {
+  var theme = _ref3.theme;
+  return theme.colors.white;
+}, styled_media_query__WEBPACK_IMPORTED_MODULE_2__["default"].lessThan("medium")(_templateObject()));
 var Skill = styled_components__WEBPACK_IMPORTED_MODULE_1__["default"].div.withConfig({
   displayName: "styles__Skill",
   componentId: "sc-138l8o9-3"
-})(["min-width:320px;padding:20px 0;h3{color:", ";font:20px/25px \"LivvicBold\";}li{color:", ";font:20px/24px \"FiraCodeRegular\";}"], function (_ref3) {
-  var theme = _ref3.theme;
-  return theme.colors.white;
-}, function (_ref4) {
+})(["min-width:320px;padding:20px 0;h3{color:", ";font:20px/25px \"LivvicBold\";}li{color:", ";font:20px/24px \"FiraCodeRegular\";}"], function (_ref4) {
   var theme = _ref4.theme;
+  return theme.colors.white;
+}, function (_ref5) {
+  var theme = _ref5.theme;
   return theme.colors.greyLight;
 });
 
@@ -23324,7 +23285,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./styles */ "./src/containers/ForFun/styles.js");
 /* harmony import */ var _data_projects_json__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../data/projects.json */ "./src/data/projects.json");
 var _data_projects_json__WEBPACK_IMPORTED_MODULE_4___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../data/projects.json */ "./src/data/projects.json", 1);
-var _jsxFileName = "/Users/nurycaroline/Desktop/workspace/Github/nurycaroline.github.io/src/containers/ForFun/index.js";
+var _jsxFileName = "/Users/nurycaroline/Documents/workspace/Github/nurycaroline.github.io/src/containers/ForFun/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -23446,7 +23407,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Links__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../components/Links */ "./src/components/Links/index.js");
 /* harmony import */ var _styles__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./styles */ "./src/containers/Home/styles.js");
-var _jsxFileName = "/Users/nurycaroline/Desktop/workspace/Github/nurycaroline.github.io/src/containers/Home/index.js";
+var _jsxFileName = "/Users/nurycaroline/Documents/workspace/Github/nurycaroline.github.io/src/containers/Home/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -23633,7 +23594,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_grid_gallery__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-grid-gallery */ "./node_modules/react-grid-gallery/lib/Gallery.js");
 /* harmony import */ var react_grid_gallery__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_grid_gallery__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _styles__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./styles */ "./src/containers/Works/Card/styles.js");
-var _jsxFileName = "/Users/nurycaroline/Desktop/workspace/Github/nurycaroline.github.io/src/containers/Works/Card/index.js";
+var _jsxFileName = "/Users/nurycaroline/Documents/workspace/Github/nurycaroline.github.io/src/containers/Works/Card/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -23769,7 +23730,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./styles */ "./src/containers/Works/styles.js");
 /* harmony import */ var _data_works_json__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../data/works.json */ "./src/data/works.json");
 var _data_works_json__WEBPACK_IMPORTED_MODULE_5___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../data/works.json */ "./src/data/works.json", 1);
-var _jsxFileName = "/Users/nurycaroline/Desktop/workspace/Github/nurycaroline.github.io/src/containers/Works/index.js";
+var _jsxFileName = "/Users/nurycaroline/Documents/workspace/Github/nurycaroline.github.io/src/containers/Works/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -23854,7 +23815,7 @@ module.exports = JSON.parse("{\"projects\":[{\"image\":\"https://www.github.com/
 /*! exports provided: works, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"works\":[{\"company\":{\"link\":\"https://www.bg7.com.br/pt/\",\"name\":\"BG7\"},\"description-pt\":\"Desenvolvimento de uma rede de apoio os novos pais, com conteudo para auxilia-los na jornada e Organização do chá de bebê online com lista de presentes.\",\"description\":\"Development of a support network for new parents, with content to assist them in the journey and organization of online baby shower with gift list.\",\"images\":[{\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fblog.png?alt=media&token=cfadc7cc-fe75-43d8-82dc-e4ef613778c0\",\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fblog.png?alt=media&token=cfadc7cc-fe75-43d8-82dc-e4ef613778c0\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fcha%20controle.png?alt=media&token=2c9357a0-68b3-4c18-ad9d-b8393b3c5940\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fconvite.png?alt=media&token=8b32089e-c7dc-4e9c-948e-39a365179be5\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fsexo%20bebe.png?alt=media&token=bf925520-289d-46cc-ab9b-f077a2004b2c\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Ftema%20convite.png?alt=media&token=a785618e-da98-4856-ae1d-7ea411237b90\"}],\"link\":\"https://www.maisabracos.com.br/\",\"name\":\"Mais Abraços\",\"tags\":[\"react\",\"html\",\"css\",\"javascript\"]},{\"company\":{\"link\":\"https://www.bg7.com.br/pt/\",\"name\":\"BG7\"},\"description-pt\":\"Web Site para buscar e comparar os carros seminovos da Mercedes Benz.\",\"description\":\"Web Site to search and compare Mercedes Benz used cars.\",\"images\":[{\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fhome.png?alt=media&token=788f7a37-d755-4bc5-b3ad-398c47ee6479\",\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fhome.png?alt=media&token=788f7a37-d755-4bc5-b3ad-398c47ee6479\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fcompare.png?alt=media&token=cdde3e30-f4d2-495d-8324-9d88ecb58ca2\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Ffiltro%20km.png?alt=media&token=efc7d2b0-6f9a-43d1-b50e-69c6de184471\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Ffiltro%20modelo.png?alt=media&token=7454a1ad-1ec6-43af-b6b4-b8255710dec3\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fselecao.png?alt=media&token=2a629878-bb12-4666-9b76-d5c2a1517a34\"}],\"link\":null,\"name\":\"Mercedes Benz\",\"tags\":[\"react\",\"html\",\"css\",\"javascript\"]},{\"company\":{\"link\":\"http://www.mhtec.com.br\",\"name\":\"MHTec Sistemas\"},\"description-pt\":\"Desenvolvimento de uma plataforma Web para gerenciar instalações, monitorar estações. Trazendo mais agilidade nas atualizações e no controle de licensas.\",\"description\":\"Development of a web platform to manage facilities, monitor stations. Bringing more agility in updates and licensing control\",\"images\":[{\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FLogin.png?alt=media&token=47e2e671-8eab-4c50-8518-e07e997a9fc9\",\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FLogin.png?alt=media&token=47e2e671-8eab-4c50-8518-e07e997a9fc9\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Details.png?alt=media&token=5b4a54a5-53b4-4b06-b9bc-2da08275ebec\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Edit.png?alt=media&token=7f26fae0-567d-4576-83f8-b04382008c82\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient.png?alt=media&token=8edd0ac0-3490-4316-9a4d-c021154292e7\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FReleases.png?alt=media&token=6756c070-478d-4ebb-a0cb-239d225ab3ac\"}],\"link\":null,\"name\":\"Portal de atualizações e licença\",\"tags\":[\"react\",\"html\",\"css\",\"javascript\"]},{\"company\":{\"link\":\"https://www.gasola.net/\",\"name\":\"Gasola\"},\"description-pt\":\"Gasola é uma plataforma online para unir empresas a postos de combustiveis, com descontos excluivos e controle de qualidade.\",\"description\":\"Gasola is an online platform for linking companies to gas stations with exclusive discounts and quality control.\",\"images\":[{\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2021.01.30.png?alt=media&token=c5fc290b-653a-4fcc-ad94-b7341b8d4c6b\",\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2021.01.30.png?alt=media&token=c5fc290b-653a-4fcc-ad94-b7341b8d4c6b\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2020.55.37.png?alt=media&token=3afbdb6b-3009-4cd9-a2fa-ff4dd63dfae7\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2020.56.23.png?alt=media&token=24a85e7f-7506-4e10-b3c7-6c9ddc645845\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2020.56.38.png?alt=media&token=84a84691-e22b-454d-b39b-1b503785eefe\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2020.57.50.png?alt=media&token=f8dd6796-8008-4669-958c-a8bb94fcce2c\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2021.01.19.png?alt=media&token=b168200a-4e22-4e3f-a732-2359ecd8ee1e\"}],\"link\":null,\"name\":\"Gasola Web\",\"tags\":[\"react\",\"html\",\"css\",\"javascript\"]},{\"company\":{\"link\":\"https://www.wk.com.br/\",\"name\":\"WK Sistemas\"},\"description-pt\":\"Desenvolvimento de aplicativos web (PWA) para gestão móvel integrado com o ERP Radar, para traze mais agilidade aos usuário.\",\"description\":\"Web application development (PWA) for mobile management integrated with ERP Radar, to bring more agility to users.\",\"images\":[{\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=1145211e-be38-4979-ba48-4f6134a5d18e\",\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=1145211e-be38-4979-ba48-4f6134a5d18e\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fautorizacao%20saldo%20bancario.png?alt=media&token=4058d6b7-c923-49a7-9a51-67fbc1128535\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fstore.png?alt=media&token=d1d9fa36-912b-4df7-a8b0-1021328829ed\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Ftitulos%20autorizacao.png?alt=media&token=1c94e9c7-6038-4813-9e9b-7120916d7d4f\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fviagem%20graficos%20de%20gasto2.png?alt=media&token=f793fcd5-2985-4d38-ae71-9c1cd4f0c939\"}],\"link\":\"https://www.solucoes.wk.com.br/apps/\",\"name\":\"Gestão Móvel WK\",\"tags\":[\"design\",\"react\",\"html\",\"css\",\"javascript\"]}]}");
+module.exports = JSON.parse("{\"works\":[{\"company\":{\"link\":\"https://www.wk.com.br/\",\"name\":\"WK Sistemas\"},\"description-pt\":\"Desenvolvimento de aplicativos web (PWA) para gestão móvel integrado com o ERP Radar, para traze mais agilidade aos usuário.\",\"description\":\"Web application development (PWA) for mobile management integrated with ERP Radar, to bring more agility to users.\",\"images\":[{\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=1145211e-be38-4979-ba48-4f6134a5d18e\",\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=1145211e-be38-4979-ba48-4f6134a5d18e\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fautorizacao%20saldo%20bancario.png?alt=media&token=4058d6b7-c923-49a7-9a51-67fbc1128535\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fstore.png?alt=media&token=d1d9fa36-912b-4df7-a8b0-1021328829ed\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Ftitulos%20autorizacao.png?alt=media&token=1c94e9c7-6038-4813-9e9b-7120916d7d4f\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fviagem%20graficos%20de%20gasto2.png?alt=media&token=f793fcd5-2985-4d38-ae71-9c1cd4f0c939\"}],\"link\":\"https://www.solucoes.wk.com.br/apps/\",\"name\":\"Mobile Management WK\"},{\"company\":{\"link\":\"https://www.bg7.com.br/pt/\",\"name\":\"BG7\"},\"description-pt\":\"Desenvolvimento de uma rede de apoio os novos pais, com conteudo para auxilia-los na jornada e Organização do chá de bebê online com lista de presentes.\",\"description\":\"Development of a support network for new parents, with content to assist them in the journey and organization of online baby shower with gift list.\",\"images\":[{\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fblog.png?alt=media&token=cfadc7cc-fe75-43d8-82dc-e4ef613778c0\",\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fblog.png?alt=media&token=cfadc7cc-fe75-43d8-82dc-e4ef613778c0\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fcha%20controle.png?alt=media&token=2c9357a0-68b3-4c18-ad9d-b8393b3c5940\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fconvite.png?alt=media&token=8b32089e-c7dc-4e9c-948e-39a365179be5\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fsexo%20bebe.png?alt=media&token=bf925520-289d-46cc-ab9b-f077a2004b2c\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Ftema%20convite.png?alt=media&token=a785618e-da98-4856-ae1d-7ea411237b90\"}],\"link\":\"https://www.maisabracos.com.br/\",\"name\":\"Mais Abraços\"},{\"company\":{\"link\":\"https://www.bg7.com.br/pt/\",\"name\":\"BG7\"},\"description-pt\":\"Web Site para buscar e comparar os carros seminovos da Mercedes Benz.\",\"description\":\"Web Site to search and compare Mercedes Benz used cars.\",\"images\":[{\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fhome.png?alt=media&token=788f7a37-d755-4bc5-b3ad-398c47ee6479\",\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fhome.png?alt=media&token=788f7a37-d755-4bc5-b3ad-398c47ee6479\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fcompare.png?alt=media&token=cdde3e30-f4d2-495d-8324-9d88ecb58ca2\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Ffiltro%20km.png?alt=media&token=efc7d2b0-6f9a-43d1-b50e-69c6de184471\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Ffiltro%20modelo.png?alt=media&token=7454a1ad-1ec6-43af-b6b4-b8255710dec3\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fselecao.png?alt=media&token=2a629878-bb12-4666-9b76-d5c2a1517a34\"}],\"link\":null,\"name\":\"Mercedes Benz\"},{\"company\":{\"link\":\"http://www.mhtec.com.br\",\"name\":\"MHTec Sistemas\"},\"description-pt\":\"Desenvolvimento de uma plataforma Web para gerenciar instalações, monitorar estações. Trazendo mais agilidade nas atualizações e no controle de licensas.\",\"description\":\"Development of a web platform to manage facilities, monitor stations. Bringing more agility in updates and licensing control\",\"images\":[{\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FLogin.png?alt=media&token=47e2e671-8eab-4c50-8518-e07e997a9fc9\",\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FLogin.png?alt=media&token=47e2e671-8eab-4c50-8518-e07e997a9fc9\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Details.png?alt=media&token=5b4a54a5-53b4-4b06-b9bc-2da08275ebec\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Edit.png?alt=media&token=7f26fae0-567d-4576-83f8-b04382008c82\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient.png?alt=media&token=8edd0ac0-3490-4316-9a4d-c021154292e7\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FReleases.png?alt=media&token=6756c070-478d-4ebb-a0cb-239d225ab3ac\"}],\"link\":null,\"name\":\"Portal\"},{\"company\":{\"link\":\"https://www.gasola.net/\",\"name\":\"Gasola\"},\"description-pt\":\"Gasola é uma plataforma online para unir empresas a postos de combustiveis, com descontos excluivos e controle de qualidade.\",\"description\":\"Gasola is an online platform for linking companies to gas stations with exclusive discounts and quality control.\",\"images\":[{\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2021.01.30.png?alt=media&token=c5fc290b-653a-4fcc-ad94-b7341b8d4c6b\",\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2021.01.30.png?alt=media&token=c5fc290b-653a-4fcc-ad94-b7341b8d4c6b\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2020.55.37.png?alt=media&token=3afbdb6b-3009-4cd9-a2fa-ff4dd63dfae7\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2020.56.23.png?alt=media&token=24a85e7f-7506-4e10-b3c7-6c9ddc645845\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2020.56.38.png?alt=media&token=84a84691-e22b-454d-b39b-1b503785eefe\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2020.57.50.png?alt=media&token=f8dd6796-8008-4669-958c-a8bb94fcce2c\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2021.01.19.png?alt=media&token=b168200a-4e22-4e3f-a732-2359ecd8ee1e\"}],\"link\":null,\"name\":\"Gasola\"},{\"company\":{\"link\":\"https://www.gasola.net/\",\"name\":\"Gasola\"},\"description-pt\":\"Gasola é uma plataforma online para unir empresas a postos de combustiveis, com descontos excluivos e controle de qualidade.\",\"description\":\"Gasola is an online platform for linking companies to gas stations with exclusive discounts and quality control.\",\"images\":[{\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fwww.gasola%203.png?alt=media&token=de470152-dbc1-4874-9305-b0de0f778f9d\",\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FGroup%2090.png?alt=media&token=63795c3c-01b2-4f25-b8df-336a38e0b177\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fwww.gasola%202.png?alt=media&token=181e3e6e-019a-4e33-8d99-5ff085669a86\"}],\"link\":null,\"name\":\"Gasola Site\"},{\"company\":{\"link\":\"https://www.unifinance.com.br/\",\"name\":\"Unifinance\"},\"description-pt\":\"Desenvolvimento da interface pra um aplicativo que permite exclusivamente aos clientes da Unifinance, o acompanhamento de seus investimentos de maneira prática e completa.\",\"description\":\"Interface development for an application that allows Unifinance customers exclusively, to follow their investments in a practical and complete way.\",\"images\":[{\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2FGraph.png?alt=media&token=14f57c81-d53b-4803-bd03-30c2fea13539\",\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2FGraph.png?alt=media&token=14f57c81-d53b-4803-bd03-30c2fea13539\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2F2-2.jpg?alt=media&token=3cf4501f-5a08-4564-9ac9-199f6f3741fd\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2F2.jpg?alt=media&token=5367ac17-c88c-45a3-980d-528e0ccedd7f\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2F2-1.jpg?alt=media&token=fc2dc9e0-a208-4770-a939-f911d53ba66a\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2F1.jpg?alt=media&token=faad60bb-c1fa-4627-8987-7316f48a22e2\"}],\"link\":\"https://apps.apple.com/us/app/id1528593168\",\"name\":\"Unifinance\"},{\"company\":{\"link\":\"\",\"name\":\"\"},\"description-pt\":\"\",\"description\":\"Application for online reading of the magazine necrotica\",\"images\":[{\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FGraph.png?alt=media&token=5d2dfaf7-799d-45b6-bd9c-c2a3ff58cd91\",\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FAndroid.png?alt=media&token=d00e16fc-22e5-40c1-854b-729e56616570\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FAndroid-3.png?alt=media&token=83e7afb0-3f2d-49ad-b176-4c8127f4b6ed\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FAndroid-2.png?alt=media&token=2c35bf2d-c4b0-4342-9196-0ba899b21524\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FAndroid-1.png?alt=media&token=18381937-ac2a-4b2a-ae83-784ae0f7e9e5\"}],\"link\":\"\",\"name\":\"Magazine Necrótica\"},{\"company\":{\"link\":\"https://www.futurebrand.com/br\",\"name\":\"Futurebrand\"},\"description-pt\":\"\",\"description\":\"Site to search, buy or rent properties\",\"images\":[{\"thumbnail\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2FHome.png?alt=media&token=06149bf1-6fe6-4ec0-a194-56f46d01504a\",\"thumbnailWidth\":300,\"thumbnailHeight\":180,\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2FHome.png?alt=media&token=06149bf1-6fe6-4ec0-a194-56f46d01504a\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2Fbusca.png?alt=media&token=6b030dec-2f4a-49c3-a45f-085ae9691db5\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2FBusca%20Imoveis%2003%20-%20SP%20Alugar%20mode.png?alt=media&token=f785d207-9d69-4116-bfa3-70cd669dddc0\"},{\"src\":\"https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2FApartamento.png?alt=media&token=ad572036-2eab-4148-b087-270223d259a8\"}],\"link\":\"https://www.axpe.com.br/\",\"name\":\"Axpe\"}]}");
 
 /***/ }),
 
@@ -23884,7 +23845,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/nurycaroline/Desktop/workspace/Github/nurycaroline.github.io/src/hocs/withAnalytics.js";
+var _jsxFileName = "/Users/nurycaroline/Documents/workspace/Github/nurycaroline.github.io/src/hocs/withAnalytics.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement;
 
 
@@ -23951,7 +23912,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _containers_About__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../containers/About */ "./src/containers/About/index.js");
 /* harmony import */ var _containers_ForFun__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../containers/ForFun */ "./src/containers/ForFun/index.js");
 /* harmony import */ var _styles__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./styles */ "./src/layout/styles.js");
-var _jsxFileName = "/Users/nurycaroline/Desktop/workspace/Github/nurycaroline.github.io/src/layout/index.js";
+var _jsxFileName = "/Users/nurycaroline/Documents/workspace/Github/nurycaroline.github.io/src/layout/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -23976,12 +23937,6 @@ function Site() {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
-    },
-    __self: this
-  }), __jsx(_containers_ForFun__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14
     },
     __self: this
   }), __jsx(_containers_About__WEBPACK_IMPORTED_MODULE_3__["default"], {
@@ -24133,13 +24088,13 @@ var theme = {
 /***/ }),
 
 /***/ 0:
-/*!*******************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fnurycaroline%2FDesktop%2Fworkspace%2FGithub%2Fnurycaroline.github.io%2Fpages%2Findex.js ***!
-  \*******************************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fnurycaroline%2FDocuments%2Fworkspace%2FGithub%2Fnurycaroline.github.io%2Fpages%2Findex.js ***!
+  \*********************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fnurycaroline%2FDesktop%2Fworkspace%2FGithub%2Fnurycaroline.github.io%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fnurycaroline%2FDesktop%2Fworkspace%2FGithub%2Fnurycaroline.github.io%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fnurycaroline%2FDocuments%2Fworkspace%2FGithub%2Fnurycaroline.github.io%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fnurycaroline%2FDocuments%2Fworkspace%2FGithub%2Fnurycaroline.github.io%2Fpages%2Findex.js!./");
 
 
 /***/ }),
