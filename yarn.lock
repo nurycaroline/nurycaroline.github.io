@@ -3902,6 +3902,11 @@ react-grid-gallery@^0.5.5:
     prop-types "^15.5.8"
     react-images "^0.5.16"
 
+react-hotjar@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/react-hotjar/-/react-hotjar-2.2.1.tgz#5f06d15a146960262dba612657c828c8b58da8a3"
+  integrity sha512-rkHdsFDfI7HCKeAwkHPf8Vq7ZbpX0oE4/5GgVvNambWw8z0PSKKxi59qWYX7H+dDYjchiL3z3hrAFQ+PohgQOA==
+
 react-images@^0.5.16:
   version "0.5.19"
   resolved "https://registry.yarnpkg.com/react-images/-/react-images-0.5.19.tgz#9339570029e065f9f28a19f03fdb5d9d5aa109d3"
