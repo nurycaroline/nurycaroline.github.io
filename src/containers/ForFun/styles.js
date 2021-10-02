@@ -1,8 +1,14 @@
 import styled from "styled-components";
+import CTitle from "../../components/Title";
 
 export const Container = styled.div`
-  background: ${({ theme }) => theme.gradients.blueGreen90};
+  /* background: ${({ theme }) => theme.gradients.blueGreen90}; */
+  background-color: ${({ theme }) => theme.colors.dark};
   padding-bottom: 20px;
+`;
+
+export const Title = styled(CTitle)`
+  color: ${({ theme }) => theme.colors.greyLight} !important;
 `;
 
 export const Item = styled.div`
@@ -29,6 +35,8 @@ export const Item = styled.div`
 
   img {
     max-width: 140px;
+    max-height: 140px;
+    margin: auto;
   }
 
   h3 {

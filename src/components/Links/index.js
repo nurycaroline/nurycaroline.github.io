@@ -36,11 +36,17 @@ export default function Links({ className }) {
         <img src="/static/email.png" alt="Logo Email" title="Email" />
       </ReactGA.OutboundLink>
       <ReactGA.OutboundLink
+        eventLabel="Link Figma"
+        to="https://www.figma.com/@nurycaroline"
+      >
+        <img src="/static/figma.png" alt="Logo Figma" title="Figma" />
+      </ReactGA.OutboundLink>
+      {/* <ReactGA.OutboundLink
         eventLabel="Link Behance"
         to="https://www.behance.net/nurycaroline"
       >
         <img src="/static/behance.png" alt="Logo Behance" title="Behance" />
-      </ReactGA.OutboundLink>
+      </ReactGA.OutboundLink> */}
     </Container>
   );
 }

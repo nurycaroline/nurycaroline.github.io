@@ -11,8 +11,8 @@ export default function Site() {
     <Container>
       <Home />
       <Works/>
-      {/* <ForFun/> */}
-      <About />
+      <ForFun/>
+      {/* <About /> */}
     </Container>
   );
 }

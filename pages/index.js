@@ -7,7 +7,7 @@ import { AnimationToTop, AnimationToBotton } from "../src/styles";
 import ThemeStyle from "../src/styles/theme";
 import GlobalStyle from "../src/styles/global";
 
-const MainPage = ({ works }) => (
+const MainPage = () => (
   <ThemeProvider theme={ThemeStyle}>
     <>
       <GlobalStyle />
@@ -15,7 +15,7 @@ const MainPage = ({ works }) => (
       <AnimationToTop />
       <AnimationToBotton />
 
-      <Layout works={works} />
+      <Layout />
     </>
   </ThemeProvider>
 );

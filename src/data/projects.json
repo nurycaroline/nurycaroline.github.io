@@ -1,16 +1,10 @@
 {
   "projects": [
     {
-      "image": "https://www.github.com/nurycaroline/pricing-component-with-toggle/raw/master/design/desktop-preview.jpg",
-      "link": "https://nurielly.dev/pricing-component-with-toggle/",
-      "title": "Pricing Component",
+      "image": "https://github.com/nurycaroline/jokenpo/raw/master/JoKenPo.gif",
+      "link": "https://nurielly.dev/jokenpo/",
+      "title": "JoKenPo",
       "description": "Challeng by Frontend Mentor"
-    },
-    {
-      "image": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/projects%2Fmoviewebapp.png?alt=media&token=b55f463c-b441-4c85-b29a-bdda4674e851",
-      "link": "https://nurielly.dev/movie-web-app",
-      "title": "Movie web app",
-      "description": "List popular movies."
     },
     {
       "image": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/projects%2Ftictactoe.png?alt=media&token=457e81b2-800c-4e6b-bc30-b7eb375735e8",

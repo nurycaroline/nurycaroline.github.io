@@ -61,7 +61,7 @@ export const Presentation = styled.div`
 `;
 
 export const Photo = styled.img`
-  width: 100px;
+  width: 130px;
   border-radius: 100%;
 
   ${media.lessThan("medium")`

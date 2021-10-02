@@ -1,8 +1,7 @@
 import React from "react";
-import Title from "../../components/Title";
 import List from "../../components/List";
 
-import { Container, Item } from "./styles";
+import { Container, Item, Title } from "./styles";
 
 import ProjectData from "../../data/projects.json";
 
@@ -23,7 +22,7 @@ const ForFun = () => {
             <div>
               <h3>{project.title}</h3>
               <p>{project.description}</p>
-              <a href={project.link}>
+              <a href={project.link} target="_blank">
                 view project
               </a>
             </div>
