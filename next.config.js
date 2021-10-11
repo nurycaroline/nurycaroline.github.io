@@ -1,7 +1,7 @@
 const debug = process.env.NODE_ENV !== "production";
 
 module.exports = {
-  exportPathMap: function() {
+  exportPathMap: function () {
     return {
       "/": { page: "/" },
       // "/blog": { page: "/blog" }
@@ -16,5 +16,10 @@ module.exports = {
       return rule;
     });
     return config;
-  }
+  },
+
+  images: {
+    disableStaticImages: true,
+  },
+
 };
