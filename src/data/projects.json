@@ -1,6 +1,12 @@
 {
   "projects": [
     {
+      "image": "https://github.com/nurycaroline/quem-e-esse-pokemon/raw/main/.github/preview.png",
+      "link": "https://quem-e-esse-pokemon.vercel.app",
+      "title": "Who's that Pokémon?",
+      "description": "Test how many Pokémon you can catch by hitting the name, of the Pokémon."
+    },
+    {
       "image": "https://github.com/nurycaroline/jokenpo/raw/master/JoKenPo.gif",
       "link": "https://nurielly.dev/jokenpo/",
       "title": "JoKenPo",
