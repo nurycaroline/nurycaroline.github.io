@@ -7,6 +7,7 @@ import ForFun from "../containers/ForFun";
 import { Container } from "./styles";
 
 export default function Site() {
+  console.log('1')
   return (
     <Container>
       <Home />
