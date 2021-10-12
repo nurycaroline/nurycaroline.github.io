@@ -8,13 +8,13 @@
     },
     {
       "image": "https://github.com/nurycaroline/jokenpo/raw/master/JoKenPo.gif",
-      "link": "https://nurielly.dev/jokenpo/",
+      "link": "http://nurycaroline.github.io/jokenpo/",
       "title": "JoKenPo",
       "description": "Challeng by Frontend Mentor"
     },
     {
       "image": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/projects%2Ftictactoe.png?alt=media&token=457e81b2-800c-4e6b-bc30-b7eb375735e8",
-      "link": "https://nurielly.dev/tictactoe_react",
+      "link": "https://nurycaroline.github.io/tictactoe_react/",
       "title": "Tic Tac Toe",
       "description": "Play the classic game of X's and O's vs. the computer or 2 players."
     },
