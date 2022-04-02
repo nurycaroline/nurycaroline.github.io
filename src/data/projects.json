@@ -1,6 +1,12 @@
 {
   "projects": [
     {
+      "image": "https://github.com/nurycaroline/warship/raw/main/.github/Desktop1.png",
+      "link": "https://warship-nurycaroline.vercel.app",
+      "title": "Warship",
+      "description": "Super trump game with Star Wars ships"
+    },
+    {
       "image": "https://github.com/nurycaroline/quem-e-esse-pokemon/raw/main/.github/preview.png",
       "link": "https://quem-e-esse-pokemon.vercel.app",
       "title": "Who's that Pokémon?",
