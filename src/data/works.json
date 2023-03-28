@@ -6,13 +6,13 @@
       "description": "Gasola is an online platform for linking companies to gas stations with exclusive discounts and quality control.",
       "images": [
         {
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fwww.gasola%203.png?alt=media&token=de470152-dbc1-4874-9305-b0de0f778f9d",
+          "thumbnail": "/static/images/gasola-s/Group 90.png",
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FGroup%2090.png?alt=media&token=63795c3c-01b2-4f25-b8df-336a38e0b177"
+          "src": "/static/images/gasola-s/Group 90.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2Fwww.gasola%202.png?alt=media&token=181e3e6e-019a-4e33-8d99-5ff085669a86"
+          "src": "/static/images/gasola-s/www.gasola 2.png"
         }
       ],
       "link": null,
@@ -27,22 +27,22 @@
       "description": "Interface development for an application that allows Unifinance customers exclusively, to follow their investments in a practical and complete way.",
       "images": [
         {
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2FGraph.png?alt=media&token=14f57c81-d53b-4803-bd03-30c2fea13539",
+          "thumbnail": "/static/images/unifinance/tumbnail.png",
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2FGraph.png?alt=media&token=14f57c81-d53b-4803-bd03-30c2fea13539"
+          "src": "/static/images/unifinance/tumbnail.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2F2-2.jpg?alt=media&token=3cf4501f-5a08-4564-9ac9-199f6f3741fd"
+          "src": "/static/images/unifinance/1.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2F2.jpg?alt=media&token=5367ac17-c88c-45a3-980d-528e0ccedd7f"
+          "src": "/static/images/unifinance/2-1.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2F2-1.jpg?alt=media&token=fc2dc9e0-a208-4770-a939-f911d53ba66a"
+          "src": "/static/images/unifinance/2-2.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Funifinance%2F1.jpg?alt=media&token=faad60bb-c1fa-4627-8987-7316f48a22e2"
+          "src": "/static/images/unifinance/2.png"
         }
       ],
       "link": "https://apps.apple.com/us/app/id1528593168",
@@ -54,25 +54,31 @@
       "description": "Gasola is an online platform for linking companies to gas stations with exclusive discounts and quality control.",
       "images": [
         {
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2021.01.30.png?alt=media&token=c5fc290b-653a-4fcc-ad94-b7341b8d4c6b",
+          "thumbnail": "/static/images/gasola-p/tumbnail.png",
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2021.01.30.png?alt=media&token=c5fc290b-653a-4fcc-ad94-b7341b8d4c6b"
+          "src": "/static/images/gasola-p/tumbnail.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2020.55.37.png?alt=media&token=3afbdb6b-3009-4cd9-a2fa-ff4dd63dfae7"
+          "src": "/static/images/gasola-p/Screen Shot 2019-09-11 at 20.55-1.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2020.56.23.png?alt=media&token=24a85e7f-7506-4e10-b3c7-6c9ddc645845"
+          "src": "/static/images/gasola-p/Screen Shot 2019-09-11 at 20.55.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2020.56.38.png?alt=media&token=84a84691-e22b-454d-b39b-1b503785eefe"
+          "src": "/static/images/gasola-p/Screen Shot 2019-09-11 at 20.56.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2020.57.50.png?alt=media&token=f8dd6796-8008-4669-958c-a8bb94fcce2c"
+          "src": "/static/images/gasola-p/Screen Shot 2019-09-11 at 20.57.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fgasola%2FScreen%20Shot%202019-09-11%20at%2021.01.19.png?alt=media&token=b168200a-4e22-4e3f-a732-2359ecd8ee1e"
+          "src": "/static/images/gasola-p/Screen Shot 2019-09-11 at 20.58-1.png"
+        },
+        {
+          "src": "/static/images/gasola-p/Screen Shot 2019-09-11 at 20.58-2.png"
+        },
+        {
+          "src": "/static/images/gasola-p/Screen Shot 2019-09-11 at 20.58.png"
         }
       ],
       "link": null,
@@ -84,22 +90,25 @@
       "description": "Web application development (PWA) for mobile management integrated with ERP Radar, to bring more agility to users.",
       "images": [
         {
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=1145211e-be38-4979-ba48-4f6134a5d18e",
+          "thumbnail": "/static/images/wkapps/tumbnail.png",
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fcapawk.png?alt=media&token=1145211e-be38-4979-ba48-4f6134a5d18e"
+          "src": "/static/images/wkapps/tumbnail.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fautorizacao%20saldo%20bancario.png?alt=media&token=4058d6b7-c923-49a7-9a51-67fbc1128535"
+          "src": "/static/images/wkapps/autorizacao saldo bancario.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fstore.png?alt=media&token=d1d9fa36-912b-4df7-a8b0-1021328829ed"
+          "src": "/static/images/wkapps/lista relatorios 2.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Ftitulos%20autorizacao.png?alt=media&token=1c94e9c7-6038-4813-9e9b-7120916d7d4f"
+          "src": "/static/images/wkapps/titulos autorizacao.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fwk%2Fviagem%20graficos%20de%20gasto2.png?alt=media&token=f793fcd5-2985-4d38-ae71-9c1cd4f0c939"
+          "src": "/static/images/wkapps/viagem graficos de gasto2.png"
+        },
+        {
+          "src": "/static/images/wkapps/viagem graficos de gasto3.png"
         }
       ],
       "link": "https://www.solucoes.wk.com.br/apps/",
@@ -111,26 +120,35 @@
       "description": "Development of a support network for new parents, with content to assist them in the journey and organization of online baby shower with gift list.",
       "images": [
         {
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fblog.png?alt=media&token=cfadc7cc-fe75-43d8-82dc-e4ef613778c0",
+          "thumbnail": "/static/images/maisabraco/tumbnail.png",
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fblog.png?alt=media&token=cfadc7cc-fe75-43d8-82dc-e4ef613778c0"
+          "src": "/static/images/maisabraco/tumbnail.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fcha%20controle.png?alt=media&token=2c9357a0-68b3-4c18-ad9d-b8393b3c5940"
+          "src": "/static/images/maisabraco/www.maisabracos.com.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fconvite.png?alt=media&token=8b32089e-c7dc-4e9c-948e-39a365179be5"
+          "src": "/static/images/maisabraco/blog.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Fsexo%20bebe.png?alt=media&token=bf925520-289d-46cc-ab9b-f077a2004b2c"
+          "src": "/static/images/maisabraco/convite.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmaisabraco%2Ftema%20convite.png?alt=media&token=a785618e-da98-4856-ae1d-7ea411237b90"
+          "src": "/static/images/maisabraco/criar cha.png"
+        },
+        {
+          "src": "/static/images/maisabraco/evento.png"
+        },
+        {
+          "src": "/static/images/maisabraco/post relato.png"
+        },
+        {
+          "src": "sstatic/images/maisabraco/tema convite.png"
         }
       ],
       "link": "https://www.maisabracos.com.br/",
-      "name": "Mais Abraços"
+      "name": "Mais /Abraços"
     },
     {
       "company": { "link": "https://www.bg7.com.br/pt/", "name": "BG7" },
@@ -138,26 +156,26 @@
       "description": "Web Site to search and compare Mercedes Benz used cars.",
       "images": [
         {
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fhome.png?alt=media&token=788f7a37-d755-4bc5-b3ad-398c47ee6479",
+          "thumbnail": "/static/images/mercedez/tumbnail.png",
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fhome.png?alt=media&token=788f7a37-d755-4bc5-b3ad-398c47ee6479"
+          "src": "/static/images/mercedez/tumbnail.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fcompare.png?alt=media&token=cdde3e30-f4d2-495d-8324-9d88ecb58ca2"
+          "src": "/static/images/mercedez/compare.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Ffiltro%20km.png?alt=media&token=efc7d2b0-6f9a-43d1-b50e-69c6de184471"
+          "src": "/static/images/mercedez/detalhes.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Ffiltro%20modelo.png?alt=media&token=7454a1ad-1ec6-43af-b6b4-b8255710dec3"
+          "src": "/static/images/mercedez/Group 91.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fbg7%2Fmercedesbenz%2Fselecao.png?alt=media&token=2a629878-bb12-4666-9b76-d5c2a1517a34"
+          "src": "/static/images/mercedez/selecao.png"
         }
       ],
       "link": null,
-      "name": "Mercedes Benz"
+      "name": "Mercedes /Benz"
     },
     {
       "company": {
@@ -170,20 +188,17 @@
         {
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FLogin.png?alt=media&token=47e2e671-8eab-4c50-8518-e07e997a9fc9",
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FLogin.png?alt=media&token=47e2e671-8eab-4c50-8518-e07e997a9fc9"
+          "thumbnail": "/static/images/mhtec/tumbnail.png",
+          "src": "/static/images/mhtec/Client-Edit.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Details.png?alt=media&token=5b4a54a5-53b4-4b06-b9bc-2da08275ebec"
+          "src": "/static/images/mhtec/Client.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient-Edit.png?alt=media&token=7f26fae0-567d-4576-83f8-b04382008c82"
+          "src": "/static/images/mhtec/Login.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FClient.png?alt=media&token=8edd0ac0-3490-4316-9a4d-c021154292e7"
-        },
-        {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fmhtec%2FReleases.png?alt=media&token=6756c070-478d-4ebb-a0cb-239d225ab3ac"
+          "src": "/static/images/mhtec/Releases.png"
         }
       ],
       "link": null,
@@ -198,19 +213,13 @@
       "description": "Application for online reading of the magazine necrotica",
       "images": [
         {
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FGraph.png?alt=media&token=5d2dfaf7-799d-45b6-bd9c-c2a3ff58cd91",
+          "thumbnail": "/static/images/necrotica/revista-logo.png",
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FAndroid.png?alt=media&token=d00e16fc-22e5-40c1-854b-729e56616570"
+          "src": "/static/images/necrotica/revista.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FAndroid-3.png?alt=media&token=83e7afb0-3f2d-49ad-b176-4c8127f4b6ed"
-        },
-        {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FAndroid-2.png?alt=media&token=2c35bf2d-c4b0-4342-9196-0ba899b21524"
-        },
-        {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Fnecrotica%2FAndroid-1.png?alt=media&token=18381937-ac2a-4b2a-ae83-784ae0f7e9e5"
+          "src": "/static/images/necrotica/revista.png"
         }
       ],
       "link": "",
@@ -225,19 +234,19 @@
       "description": "Site to search, buy or rent properties",
       "images": [
         {
-          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2FHome.png?alt=media&token=06149bf1-6fe6-4ec0-a194-56f46d01504a",
+          "thumbnail": "/static/images/axpe/Home.png",
           "thumbnailWidth": 300,
           "thumbnailHeight": 180,
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2FHome.png?alt=media&token=06149bf1-6fe6-4ec0-a194-56f46d01504a"
+          "src": "/static/images/axpe/Home.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2Fbusca.png?alt=media&token=6b030dec-2f4a-49c3-a45f-085ae9691db5"
+          "src": "/static/images/axpe/BuscaImoveis.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2FBusca%20Imoveis%2003%20-%20SP%20Alugar%20mode.png?alt=media&token=f785d207-9d69-4116-bfa3-70cd669dddc0"
+          "src": "/static/images/axpe/busca.png"
         },
         {
-          "src": "https://firebasestorage.googleapis.com/v0/b/nurycaroline-1993f.appspot.com/o/works%2Faxpe%2FApartamento.png?alt=media&token=ad572036-2eab-4148-b087-270223d259a8"
+          "src": "/static/images/axpe/Apartamento.png"
         }
       ],
       "link": "https://www.axpe.com.br/",
