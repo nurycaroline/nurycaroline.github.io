@@ -28,8 +28,10 @@ export default class MyDocument extends Document {
           />
 
           <meta name="language" content="English" />
-          <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-          <meta http-equiv="X-UA-Compatible" content="ie=edge"></meta>
+          <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
+          <meta httpEquiv="X-UA-Compatible" content="ie=edge"></meta>
+          <link rel="canonical" href="https://nurielly.dev" />
+
 
           <meta property="og:locale" content="en_US" />
           <meta property="og:url" content="https://www.nurielly.dev/" />
